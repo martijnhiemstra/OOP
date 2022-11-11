@@ -30,14 +30,14 @@ public class Application {
 //		Product p = new Product();
 //		p.name = "Stofzuiger";
 		
-		// Animal a = new Animal();
-		
 		Dog dog = new Dog();
 		dog.name = "Woefie";
 		dog.makeSound();
 		
 		Cat cat = new Cat();
 		cat.makeSound();
+		
+		System.out.println("Toevoegen om git te testen");
 	
 	}
 
