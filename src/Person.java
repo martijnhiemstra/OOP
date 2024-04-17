@@ -4,6 +4,8 @@ public class Person {
 	private String name;
 
 	private String bsn;
+	
+	private int iets;
 
 	public String getName() {
 		return name;
@@ -22,6 +24,8 @@ public class Person {
 		this.bsn = bsn;
 	}
 	
-	
+	public int getIets() {
+		return iets;
+	}
 
 }
