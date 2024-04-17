@@ -32,9 +32,7 @@ public class Product {
 	}
 	
 	public double calculateTotalPrice() {
-		double totalPrice = price * 1.21;
-
-		return totalPrice;
+		return price * 1.21;
 	}
 	
 }
