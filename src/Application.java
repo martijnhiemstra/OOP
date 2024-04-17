@@ -5,7 +5,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Martijn!");
+		System.out.println("Programmeren is leuk!!");
 		
 		int a = 1099;
 		String t = "Test";
